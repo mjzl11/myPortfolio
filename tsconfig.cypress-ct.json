@@ -9,6 +9,7 @@
   ],
   "exclude": [],
   "compilerOptions": {
+    "allowJs": true,
     "composite": true,
     "noImplicitAny": false,
   }
