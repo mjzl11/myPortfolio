@@ -1,7 +1,7 @@
 <script setup>
 import { ref, inject } from "vue";
 import { RouterLink, RouterView, } from "vue-router";
-import Card from "../src/components/Card.vue"
+import Card from "./components/Card.vue"
 
 let showPhone = ref(false);
 
