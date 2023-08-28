@@ -1,0 +1,15 @@
+[
+    {
+      "title": "How I Started",
+      "description": "I consider myself passionate about programming. I started with small Arduino projects,. After that, my interest shifted to web programming, and it was then when I decided to enroll in a Bootcamp to change my profession."
+    },
+    {
+      "title": "During the Bootcamp",
+      "description": "During the bootcamp, we worked with the JavaScript DOM and later the MERN stack. Upon completion, I realized I needed to continue developing projects to keep learning, so I became interested in React Native, Django, Puppeteer, and Vue."
+    },
+    {
+      "title": "In the Future",
+      "description": "For the future, I would like to continue learning mathematics, and I also find 3JS and TensorFlow interesting. I feel more prepared and I'm looking forward to finding a job that allows me to continue growing and learning from other programmers."
+    }
+  ]
+  
