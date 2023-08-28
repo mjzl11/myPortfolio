@@ -1,39 +1,39 @@
 [
     {
-      "icon": "../assets/arduino.png",
+      "icon": "../src/assets/arduino.png",
       "title": "Arduino Repository",
       "description": "This repository contains Arduino scripts. I have started learning to code with Arduino using a starter kit that includes a motherboard and components for practice. ",
       "src": "https://github.com/mjzl11/Arduino"
     },
     {
-      "icon": "../assets/python.png",
+      "icon": "../src/assets/python.png",
       "title": "Python repository",
       "description": "This repository includes some basic Python scripts and a small project I created with Django. I learned a bit of Python by searching through internet web pages.",
       "src": "https://github.com/mjzl11/python"
     },
     {
-      "icon": "../assets/js.png",
+      "icon": "../src/assets/js.png",
       "title": "JS Challenges",
       "description": "After completing the bootcamp, I noticed that I needed to improve my programming logic, so I started doing challenges on edabit.com to enhance my skills. At the same time, I also bought a mathematics book and worked on exercises related to parable, polynomials, arrays, probability, ...",
     "src": "https://github.com/mjzl11/challenges"
     },
     {
-      "icon": "../assets/ts.png",
+      "icon": "../src/assets/ts.png",
     "title": "TypeScript",
     "description": "This repository contains examples of how to use TypeScript. I created it for the purpose of learning how to use TypeScript."
     },
     {
-      "icon": "../assets/js.png",
+      "icon": "../src/assets/js.png",
     "title": "ThreeJS",
     "description": "In this repository, I started using Three.js to understand it and be able to add objects to web pages in the future."
     },
     {
-      "icon": "../assets/react.png",
+      "icon": "../src/assets/react.png",
     "title": "Forapi",
     "description": "Forapi is an application that serves to search for furniture from near stores. The project is built using the MERN stack and also includes a React Native app, as well as a small scraping project using Puppeteer.."
     },
     {
-      "icon": "../assets/vue.png",
+      "icon": "../src/assets/vue.png",
     "title": "Portfolio",
     "description": "This is my portfolio, and I created it using Vue. It contains information about my repositories, a link to my LinkedIn profile, and my phone number for contacting me."
     }
