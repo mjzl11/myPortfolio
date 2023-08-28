@@ -117,10 +117,6 @@ const handlerBack = () => {
           <h3 class="description">{{ dataRepositories[0].description }}</h3>
         </div>
         <div v-else-if="dataRepositories.length > 1" id="repoInfo">
-            <img
-              style="height: 20vh; width: 20vh;"
-              :src="dataRepositories[1][currentIndexRepos].icon"
-            />
           <div style="display: flex">
             <span
               ><a
