@@ -153,6 +153,14 @@ const handlerBack = () => {
 </template>
 
 <style>
+/* Card */
+#cardContainer {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 #repoInfo {
   display: flex;
   flex-direction: column;
@@ -235,6 +243,7 @@ h4 {
   color: rgb(255, 255, 255);
 }
 
+/* routerDiv */
 #routerDiv {
   display: flex;
   justify-content: center;

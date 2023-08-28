@@ -23,7 +23,7 @@ const handlerShowPhone = () => {
         >
         <RouterLink
           to="/repositories"
-          class="whiteApp"
+          class="white"
           >Repositories</RouterLink
         >
         <RouterLink to="/about" class="white"
@@ -68,7 +68,7 @@ nav {
   background-color: green;
   width: 100%;
 }
-.whiteApp {
+.white {
   color: white;
   margin-right: 8vh;
 }

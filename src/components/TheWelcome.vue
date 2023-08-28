@@ -6,7 +6,7 @@ import Card from "../components/Card.vue";
   <div style="display: flex; justify-content: space-around; align-items: center; width: 90vw">
     <Card />
     <div id="containerWelcomeText">
-      <h3 class="whiteWelcome">Welcome to my portfolio!</h3>
+      <h3 class="white">Welcome to my portfolio!</h3>
       <h3 class="typeWriter">{{ typedText }}</h3>
     </div>
   </div>
@@ -17,7 +17,7 @@ import Card from "../components/Card.vue";
   width: 30vw;
 }
 
-.whiteWelcome {
+.white {
   color: white;
   font-weight: bold;
   font-size: 16px;
@@ -33,7 +33,7 @@ import Card from "../components/Card.vue";
 }
 
 @media (min-height: 660px) {
-  .whiteWelcome {
+  .white {
     font-size: 24px;
   }
 
