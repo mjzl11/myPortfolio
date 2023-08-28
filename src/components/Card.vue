@@ -10,7 +10,7 @@ const handlerShowPhone = () => {
 </script>
 
 <template>
-      <div id="cardContainer">
+      <div id="cardContainerCard">
         <div class="card">
           <div style="display: block">
             <div class="img"></div>
@@ -47,8 +47,7 @@ const handlerShowPhone = () => {
 </template>
 
 <style>
-/* Card */
-#cardContainer {
+#cardContainerCard {
   height: 100vh;
   display: flex;
   align-items: center;
@@ -126,7 +125,6 @@ h4 {
   color: rgb(255, 255, 255);
 }
 
-/* routerDiv */
 #routerDiv {
   display: flex;
   justify-content: center;
